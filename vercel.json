@@ -1,5 +1,5 @@
 {
     "rewrites": [
-      { "source": "/(.*)", "destination": "/home-air-condition.html" }
+      { "source": "/home-air-condition.html", "destination": "/" }
     ]
   }
