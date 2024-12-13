@@ -18265,6 +18265,7 @@ span.select2-selection.select2-selection--single:focus {
   background-color: var(--theme-color);
 }
 
+
 /* Service Box ---------------------------------- */
 .service-box {
   position: relative;
@@ -18275,6 +18276,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .service-box .box-img {
+  
   -webkit-mask-image: url('data:image/svg+xml,<svg width="424" height="255" viewBox="0 0 424 255" preserveAspectRatio="none" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 201V201C132.163 273.004 291.837 273.004 424 201V201V0H0V201Z" fill="%23D9D9D9"/></svg>');
           mask-image: url('data:image/svg+xml,<svg width="424" height="255" viewBox="0 0 424 255" preserveAspectRatio="none" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 201V201C132.163 273.004 291.837 273.004 424 201V201V0H0V201Z" fill="%23D9D9D9"/></svg>');
   -webkit-mask-size: 100% 100%;
